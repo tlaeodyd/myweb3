@@ -50,3 +50,7 @@ main {
   place-content: center center;
 
 }
+
+.hide {
+  visibility: hidden;
+}
